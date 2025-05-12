@@ -2,6 +2,7 @@
 
 ## This is a project used for applying data science in University of Manchester
 
+### Group members:  
 Malaika Chaudhary (11615686)  
 
 Meicheng Liu (11558899)  
