@@ -1,6 +1,7 @@
 # P7-Applying-Data-Science
 
 ### This is a project used for Applying Data Science(DATA 70202) in University of Manchester
+### All code related to this project can be found in the ADSCode.ipynb file. All output cells have been removed to prevent potential leakage of sensitive information.
 
 ### Group members:  
 Malaika Chaudhary (11615686)  
@@ -9,4 +10,3 @@ Kuan-Ling Liu (14141925)
 Chenyu Ma (11593243)  
 Idil Alp (14153514)  
 
-### All code related to this project can be found in the ADSFinalCode.ipynb file. All output cells have been removed to prevent potential leakage of sensitive information.
