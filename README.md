@@ -1,6 +1,6 @@
 # P7-Applying-Data-Science
 
-### This is a project used for applying data science in University of Manchester
+### This is a project used for Applying Data Science(DATA 70202) in University of Manchester
 
 ### Group members:  
 Malaika Chaudhary (11615686)  
