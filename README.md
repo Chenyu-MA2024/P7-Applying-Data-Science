@@ -1,4 +1,4 @@
-# P7-Applying-Data-Science
+# P7-Radiator Performance Estimation
 
 ### This is a project used for Applying Data Science(DATA 70202) in University of Manchester
 All code related to this project can be found in the ADSCode.ipynb file. All output cells have been removed to prevent potential leakage of sensitive information.
