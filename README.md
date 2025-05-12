@@ -1,7 +1,5 @@
 # P7-Radiator Performance Estimation
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15388770.svg)](https://doi.org/10.5281/zenodo.15388770)  
-
 ### This is a project used for Applying Data Science(DATA 70202) in University of Manchester
 
 ## ADSCode.ipynb
